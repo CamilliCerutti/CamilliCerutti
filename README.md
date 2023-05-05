@@ -4,7 +4,7 @@ Me chamo camilli e sou uma entusiasta nesse mundo do TI
 
 Atualmente estou cursando Analise e Desenvolvimento de Sistemas
 
-e meu foco atual esta em desenvolvimento FullStack
+e meu foco atual esta em desenvolvimento Back-end.
 
 <div>
   
